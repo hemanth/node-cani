@@ -1,6 +1,7 @@
 # cani [![Build Status](https://travis-ci.org/hemanth/node-cani.svg?branch=master)](https://travis-ci.org/hemanth/node-cani)
 
-> Human Readable real time memory stats.
+>Can I read/write/execute this file/path?
+
 
 ## Install
 
