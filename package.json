@@ -1,0 +1,36 @@
+{
+  "name": "cani",
+  "version": "0.0.0",
+  "description": "Can I read/write/execute this file/path?",
+  "license": "MIT",
+  "repository": "hemanth/node-cani",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "http://h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "perms",
+    "permission",
+    "fs",
+    "file",
+    "dir",
+    "stat",
+    "read",
+    "write",
+    "execute"
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "mock-fs": "^2.3.1",
+  }
+}
