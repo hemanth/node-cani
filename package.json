@@ -1,6 +1,6 @@
 {
   "name": "cani",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Can I read/write/execute this file/path?",
   "license": "MIT",
   "repository": "hemanth/node-cani",
